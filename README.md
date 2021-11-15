@@ -1,5 +1,5 @@
 <h1 align="center">
-    SpaceFlight News Challenge by coodesh
+    Front-end Challenge 🏅 2021 - Space Flight News  by coodesh
 </h1>
 
 <h4 align="center">
